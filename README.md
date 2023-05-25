@@ -1,4 +1,3 @@
---# Frontend Mentor - Product preview card component solution
 
 This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
@@ -26,14 +25,13 @@ Users should be able to:
 ### Compatibility
 
 ![mobile.png](./images/mobile.png)
-Here is an image of the mobile view
+
 
 ![Desk.png](./images/Desk.png)
-Here is the desktop view
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://derrick-ndemo.github.io/Bruuh.github.io/)
 
 ## My process
 
@@ -57,6 +55,6 @@ Future plans include adding:
 
 ## Author
 
-- Website - [Bruuuuh](https://www.your-site.com)
+- Website - [Bruuuuh](https://derrick-ndemo.github.io/Bruuh.github.io/)
 - Frontend Mentor - [@Bluesanta5](https://www.frontendmentor.io/profile/Bluesanta5)
 - Twitter - [@santagotthejuic](https://www.twitter.com/santagotthejuic)
